@@ -1,14 +1,10 @@
-from collections import namedtuple
-
-Point=namedtuple("Point",["x","y"])
-# class Point:
-#     def __init__(self,x,y):
-#         self.x=x
-#         self.y=y
-
-#     def __eq__(self, other):
-#         return self.x==other.x and self.y==other.y
-p1=Point(x=1,y=2)
-p3=Point(x=10,y=2)
-p2=Point(x=1,y=2)
-print(p1==p2)
+print([
+    """My name is tanjib saif
+    I have a very big problem so far 
+    I have two douhter they are very so cute 
+    their Father is a software Engineer.His name is Sohel Rana.
+    I live in Pullabi that is situated Mirpur sector 12 
+    I think it is a very peacefull area.Because This area is not croweded.
+    so I know so far our smartness is very important for our Social life.
+    """
+])
